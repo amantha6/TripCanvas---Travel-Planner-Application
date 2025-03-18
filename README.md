@@ -3,7 +3,7 @@
 TripCanvas is a full-stack travel planning application built with Kotlin backend and React frontend. The application allows users to create and manage travel itineraries, search for locations, and receive personalized travel recommendations.
 
 <img src="https://github.com/user-attachments/assets/5912ccfb-5a04-4e04-a30a-7fbe98d6a0ea" alt="TripCanvas Dashboard" width="800"/>
-![WhatsApp Image 2025-03-13 at 17 28 31_df6df706](https://github.com/user-attachments/assets/c2db898a-fedc-4f14-a373-ec7d5017af1f)
+
 
 ## Project Overview
 
@@ -13,13 +13,9 @@ TripCanvas provides travelers with a seamless platform to:
 - Store user preferences for personalized experiences
 - Receive AI-powered travel recommendations
 
-## Sample Views
 
-### Trip Dashboard
-<img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2000" alt="Trip Dashboard" width="600"/>
 
-### Itinerary Planning
-<img src="https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2000" alt="Itinerary Planning" width="600"/>
+
 
 ## Tech Stack
 
